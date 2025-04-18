@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Teerapat Suksam-ang
 ===========================================================================================================================================
 
-Student web developer
+IT Student
 ---------------------
 
 * ✉️  You can contact me at [nongmix2550@gmail.com](mailto:nongmix2550@gmail.com)
